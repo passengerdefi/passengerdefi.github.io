@@ -1,0 +1,9 @@
+body{
+    background-color: #1D1B3E;
+}
+div {
+    clear: both;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
